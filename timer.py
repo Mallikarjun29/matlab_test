@@ -1,4 +1,5 @@
 import time
+!pip install numpy
 import numpy
 
 print(time.time())
